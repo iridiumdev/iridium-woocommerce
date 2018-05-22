@@ -1,3 +1,5 @@
+![Image Iridium + Woocommerce](https://cdn.discordapp.com/attachments/446012510097768449/446420136472346625/wcird.png)
+
 [![Build Status](https://travis-ci.org/steevebrush/iridium-woocommerce.svg?branch=master)](https://travis-ci.org/steevebrush/iridium-woocommerce)
 
 # Iridium for WooCommerce #
